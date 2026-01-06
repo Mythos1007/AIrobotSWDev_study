@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../hobby"
+		},
+		{
+			"path": "../cpp3"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"q25": "c",
+			"iostream": "cpp",
+			"ostream": "cpp"
+		}
+	}
+}
